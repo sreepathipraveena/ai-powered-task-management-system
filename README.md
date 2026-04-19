@@ -5,8 +5,7 @@ A modern **Machine Learning + NLP-based Task Management Dashboard** that automat
 ---
 ## 🌐 Live Demo
 
-👉 https://ai-powered-task-management-515.streamlit.app/
-
+👉 https://ai-powered-task-management-system-project.streamlit.app/
 This is a deployed AI-powered task management system that predicts task priority using Machine Learning and NLP.
 
 The app allows users to input task descriptions and get real-time AI-based priority predictions (High, Medium, Low) through an interactive dashboard.
